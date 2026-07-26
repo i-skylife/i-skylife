@@ -41,7 +41,7 @@ A modern minecraft ecosystem focused on:
 🎮 Minecraft Launcher | لانچر ماینکرفت  
 ⚔️ Custom Client | کلاینت اختصاصی  
 🌎 Multiplayer Server | سرور چندنفره  
-🛠️ Developer Tools | ابزارهای توسعه  
+🛠️ And More... | و بیشتر...   
 
 <br>
 
