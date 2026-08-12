@@ -45,4 +45,4 @@ A modern minecraft ecosystem focused on:
 <img src="https://img.shields.io/badge/Aparat-i__skylife-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a><a href="https://ble.ir/skylife">
 <img src="https://img.shields.io/badge/Bale-skylife-111111?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:111111,100:050505&height=120&section=footer" width="98%" alt="footer banner"/></div>
+</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:111111,100:050505&height=120&section=footer" width="98%" alt="footer banner"/></div> 
